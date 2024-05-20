@@ -1,1 +1,2 @@
-# Analyzing-Sleep-Health-Using-Lifestyle-Data
+# Analyzing Sleep Health Using Lifestyle Data
+This project aims to analyze the relationship between lifestyle factors and sleep health using the "Sleep Health and Lifestyle Dataset" obtained from Kaggle. It involves descriptive analytics, visualizations, and machine learning techniques to identify and understand the impact of various factors on sleep duration and disorders. The key findings reveal significant relationships between sleep health and factors such as stress levels, physical activity, age, and gender. Recommendations are provided to implement stress management programs, encourage regular physical activity, and promote healthy lifestyle habits to improve sleep quality and overall well-being.
